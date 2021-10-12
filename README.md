@@ -6,7 +6,7 @@
  2. README File
  
  # Expaination 
-   In this file, I took a diabetes dataset and create a different model using Linear Regression algorithm and check the accuracy.
+   In this file, I took a diabetes dataset and create a different model using Linear Regression Algorithm and check the accuracy.
 
   # Dataset
    Data Set Characteristics:
